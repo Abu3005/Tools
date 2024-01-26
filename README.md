@@ -12,3 +12,14 @@
 ## Power point templates
 
 1. https://gift4designer.net/category/presentation-templates
+
+Development Process - Future Steps
+Next Steps:
+
+Feature Enhancements: Implementing additional features based on user feedback and evolving market needs.
+Scalability: Preparing the platform for scalability to accommodate a growing user base.
+Continuous Improvement: Establishing a feedback loop for continuous improvement and ensuring ongoing user satisfaction.
+
+ALX FINAL PROJECT
+alx ppt presentation link- https://eu.docs.wps.com/l/sICSGjeDfAb-onKwG?v=v2
+alx video presentation link- https://www.awesomescreenshot.com/video/23535536?key=ff277ccb7fd7a10688a08233fd0c5312
