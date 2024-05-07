@@ -23,3 +23,8 @@ Continuous Improvement: Establishing a feedback loop for continuous improvement 
 ALX FINAL PROJECT by Alfred Muinde Tuva
 alx ppt presentation link- https://eu.docs.wps.com/l/sICSGjeDfAb-onKwG?v=v2
 alx video presentation link- https://www.awesomescreenshot.com/video/23535536?key=ff277ccb7fd7a10688a08233fd0c5312
+
+## To change CHATGPT text
+https://quillbot.com/
+
+https://quillbot.com/
